@@ -4,7 +4,7 @@ This is the repo for Student Worker Testing, April 2017 Version.
 
 ### Basic Instructions ###
 
-* CLONE this repo
+* **CLONE** this repo - **DO NOT FORK**
 * Fix any errors in repository
 * Run the python script against the JSON file
 * Check in the output from the python script
